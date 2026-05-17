@@ -44,7 +44,7 @@ Le tableau de bord final permet de répondre aux questions suivantes :
 ## 📊 Aperçu du Tableau de Bord & Analyses
 
 ### 💻 Page 1 : Analyse de la consommation budgétaire
-Cette vue offre un contrôle macro de l'exécution budgétaire (Prévu vs Réalisé) et isole instantanément les écarts globaux ainsi que le taux d'exécution global.
+Cette vue offre un contrôle macro de l'exécution budgétaire (Prévu vs Réalisé) sur trois années et isole instantanément les écarts globaux.
 
 <img width="1203" height="673" alt="GIT1" src="https://github.com/user-attachments/assets/af4f60d2-9e91-4061-85ac-78f2f67a5480" />
 
@@ -54,7 +54,7 @@ Une perspective temporelle dynamique permettant de suivre la vélocité, l'évol
 <img width="1205" height="671" alt="GIT2" src="https://github.com/user-attachments/assets/e27b4268-d7bb-494e-b7a1-952e5f2ba5c2" />
 
 ### 🏛️ Page 3 : Audit de la distribution budgétaire par type de charge
-Ce rapport met en lumière la répartition institutionnelle fine. Il permet de surveiller l'intensité budgétaire spécifique des ministères et d'identifier le poids des structures clés.
+Ce rapport met en lumière la répartition institutionnelle fine. Il permet de surveiller l'intensité budgétaire et d'identifier le poids des structures clés.
 
 <img width="1226" height="680" alt="GIT3" src="https://github.com/user-attachments/assets/9363c128-0836-4c4b-8ddc-3870df3a61b4" />
 
