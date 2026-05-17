@@ -41,7 +41,30 @@ Le tableau de bord final permet de répondre aux questions suivantes :
 * Les identifiants de connexion aux bases de données sont gérés via des variables d'environnement (non incluses dans ce dépôt pour des raisons de sécurité).
 * Utilisation du principe **DRY (Don't Repeat Yourself)** grâce à la création de fonctions réutilisables en Python.
 
+## 📊 Aperçu du Tableau de Bord & Analyses
+
+### 💻 Page 1 : Analyse de la consommation budgétaire
+Cette vue offre un contrôle macro de l'exécution budgétaire (Prévu vs Réalisé) et isole instantanément les écarts globaux ainsi que le taux d'exécution global.
+
+<img width="1203" height="673" alt="GIT1" src="https://github.com/user-attachments/assets/af4f60d2-9e91-4061-85ac-78f2f67a5480" />
+
+### 📈 Page 2 : Synthèse pluriannuelle des performances
+Une perspective temporelle dynamique permettant de suivre la vélocité, l'évolution et la capacité d'absorption des fonds d'une année à l'autre (2019-2021).
+
+<img width="1205" height="671" alt="GIT2" src="https://github.com/user-attachments/assets/e27b4268-d7bb-494e-b7a1-952e5f2ba5c2" />
+
+### 🏛️ Page 3 : Audit de la distribution budgétaire par type de charge
+Ce rapport met en lumière la répartition institutionnelle fine. Il permet de surveiller l'intensité budgétaire spécifique des ministères et d'identifier le poids des structures clés.
+
+<img width="1226" height="680" alt="GIT3" src="https://github.com/user-attachments/assets/9363c128-0836-4c4b-8ddc-3870df3a61b4" />
+
+---
+
 ---
 
 ## 👩‍💻 À propos de moi
 Je suis **Safiatou Sidibé**, Data Analyst passionnée par l'utilisation de la donnée pour améliorer la transparence et la prise de décision, notamment dans le secteur des finances publiques et de l'éducation à Bamako.
+
+
+
+
